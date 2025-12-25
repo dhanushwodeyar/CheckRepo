@@ -2,3 +2,5 @@ this is my first file
 add another file text here
 added thge one more line to check the repo
 and another line to check the repo
+
+adding another set o9f inf0o to the file to check after the commit 
